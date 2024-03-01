@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![alt text](images/Screenshot.png)
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/sboateng12/signup-form)
+- Live Site URL: (https://sboateng12.github.io/signup-form/)
 
 ## My process
 
