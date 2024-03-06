@@ -78,6 +78,7 @@ select {
 body {
   background: url(images/bg-intro-desktop.png) no-repeat;
   background-color: hsl(0, 100%, 74%);
+  font-family: "Poppins", sans-serif;
 }
 
 .container {
